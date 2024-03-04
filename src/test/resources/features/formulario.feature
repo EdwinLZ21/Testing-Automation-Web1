@@ -1,8 +1,8 @@
 #language: es
-  Característica: Registrar Formulario
-    Como usuario
-    Quiero registrar mis datos
-    Para que tengan mi información actualizada
+Característica: Registrar Formulario
+  Como usuario
+  Quiero registrar mis datos
+  Para que tengan mi información actualizada
 
   Escenario: Registro de formulario con datos validos
     Dado que la web demo QA esta disponible
